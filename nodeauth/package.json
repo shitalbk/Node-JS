@@ -6,7 +6,7 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
-    "body-parser": "~1.13.2",
+    "body-parser": "~1.20.1",
     "connect-flash": "*",
     "cookie-parser": "~1.4.4",
     "debug": "~2.6.9",
@@ -23,6 +23,6 @@
     "passport": "*",
     "passport-http": "*",
     "passport-local": "*",
-    "serve-favicon": "~2.3.0"
+    "serve-favicon": "~2.5.0"
   }
 }
